@@ -1,0 +1,5 @@
+requests==2.18.4
+selenium==3.141.0
+nba_api==1.0.7
+youtube_dl==2019.1.2
+beautifulsoup4==4.7.1
